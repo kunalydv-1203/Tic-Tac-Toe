@@ -33,7 +33,7 @@ This is a classic Tic Tac Toe game implemented using HTML, CSS, and JavaScript.
 
 ![Game Screenshot](/1.png)
 
-
+![Game Screenshot](/2.png)
 
 ## Contributions
 
